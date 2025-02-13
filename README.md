@@ -44,7 +44,7 @@ const TranslationProvider = (props: any) => {
 export default TranslationProvider;
 ```
 
-````
+```
 <TranslationProvider 
   // Prop (eg: user, locale)
 >
